@@ -1,0 +1,23 @@
+-Pitch
+	Go off original from discussion board
+-Final GDD
+	Go off original
+-Blueprints
+	Screenshots in Doc, Captions
+-Video >>>
+
+
+Level Design
+	Maybe spruce it up
+Charcter Design
+	Moss Man, subject to change
+Blueprints
+	What we have
+AI
+	Set NPCs around the arena
+NPC Dialog
+	Set it up to be the beginning of the game
+UI
+	Have main menu, add puzzle menu
+Storyline
+	Make something up
